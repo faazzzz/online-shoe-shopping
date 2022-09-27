@@ -1,0 +1,67 @@
+h2{
+    color: gray;
+    font-size: 1.5cm;
+    
+    
+}
+#a{
+    margin-left: 520px;
+    
+}
+#bb{
+    margin-left:990px ;
+    border: 1px solid darkblue;
+
+}
+#aa{
+    background-color: aquamarine;
+}
+img{
+    margin-left: 5px;
+    margin-top: 50px;
+    border: 2px solid black;
+}
+
+#div2{
+    margin-left: 350px;
+    margin-top: -326px;
+}
+#div3{
+    margin-left: 700px;
+    margin-top: -325px;
+
+}
+#div5{
+    margin-left: 350px;
+    margin-top: -325px;
+}
+#div6{
+    margin-left: 700px;
+    margin-top: -325px;
+}
+#div8{
+    margin-left: 350px;
+    margin-top: -325px;
+}
+#div9{
+    margin-left: 700px;
+    margin-top: -325px;
+}
+#div11{
+    margin-left: 350px;
+    margin-top: -325px;
+}
+#div12{
+    margin-left: 700px;
+    margin-top: -325px;
+}
+#main{
+    margin-left: 70px;
+}
+body{
+    background-image: url(images/back.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
